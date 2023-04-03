@@ -1,4 +1,4 @@
 # EL6115-BR
 Kelas Operasi Keamanan dan Incident Response
 
-Disini isinya adalah latihan menggunakan git.
+Belajar menggunakan git pada github.
